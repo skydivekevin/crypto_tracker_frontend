@@ -1,3 +1,5 @@
+Frontend meant to be used with crypto tracker API at https://github.com/skydivekevin/crypto_investment_tracker_api/tree/master. This is to showcase React/Rails abilities for application at Clutch Prep.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
